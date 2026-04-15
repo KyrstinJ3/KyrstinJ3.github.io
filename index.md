@@ -1,68 +1,31 @@
-Portfolio
-=========
+# Kyrstin Jenkins
 
-Programming Projects
---------------------
+## Cybersecurity Student | IT Professional
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
-
----
-### [Project 1 Title | CSCI 301](project1)
-
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 2 Title | CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 3 Title | CSCI 325](project1)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+CSCI 496: Senior Portfolio  
+In partial fulfillment of the requirements for the degree of Bachelor of Science in Cybersecurity  
 
 ---
 
-Ethics Papers
--------------
-
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
-
--   **Class:**  
--   **Grade:**
-
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
+### About Me
+I am currently a senior at Charleston Southern University pursuing a degree in Cybersecurity. I work full-time in IT and have hands-on experience with networking, system security, and troubleshooting. I have earned my CompTIA Network+ certification and I am currently preparing for the Security+ exam.
 
 ---
 
-Presentations
--------------
+### Programming Projects
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+#### Jumpy Block | CSCI 332
+A Unity 3D endless runner game where the player controls a block that automatically moves forward and must jump over obstacles. The game includes increasing difficulty, score tracking, and dynamic gameplay.
 
-- **Class:** 
-- **Grade:**
+#### SFTP Server Project | CSCI 352
+Configured a secure file transfer server using SSH to safely transfer files between systems. This project focused on security, authentication, and system configuration.
 
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
+#### PHP Registration System | CSCI 315
+Developed a web-based registration system using PHP that stores user data in structured files. Implemented input validation and basic security features.
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
+### Links
+- Resume: (upload later)
+- GitHub: https://github.com/KyrstinJ3
+- LinkedIn: (add  link)
