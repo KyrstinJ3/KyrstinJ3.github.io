@@ -14,7 +14,7 @@ I am currently a senior at Charleston Southern University pursuing a degree in C
 
 ## Programming Projects
 
-### [Jumpy Block | CSCI 332](project1.md)
+### [Jumpy Block | CSCI 432](project1.md)
 ![Jumpy Block Screenshot](images/project1.png)
 
 A Unity 3D endless runner game where the player controls a block that automatically moves forward and must jump over obstacles. The game includes increasing difficulty, score tracking, and dynamic gameplay.
@@ -35,32 +35,25 @@ Developed a web-based registration system using PHP that stores user data in str
 
 ---
 
-### [Additional Project | CSCI 325](project4.md)
-![Project Screenshot](images/project4.png)
-
-Additional project demonstrating programming and system design concepts.
-
----
-
 ## Ethics Papers
 
-### Paper 1: (Put Title Here)
-- Class: CSCI 419  
-- Grade: (Your Grade)  
+### Paper 1: (Racial Discrimination and the Death Penalty in the United States)
+- Class: (CRIM 210)  
+- Grade: (75)  
 - [View Paper](pdf/paper1.pdf)
 
 ---
 
-### Paper 2: (Put Title Here)
-- Class: (Class Name)  
-- Grade: (Your Grade)  
+### Paper 2: (Ethics Paper)
+- Class: (CSI 419 Database Management)  
+- Grade: (80)  
 - [View Paper](pdf/paper2.pdf)
 
 ---
 
-### Paper 3: (Put Title Here)
-- Class: (Class Name)  
-- Grade: (Your Grade)  
+### Paper 3: (The Ethical Implications of AI on Game Development)
+- Class: (CSI 419 Database Management)  
+- Grade: (93)  
 - [View Paper](pdf/paper3.pdf)
 
 ---
