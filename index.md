@@ -47,7 +47,7 @@ Developed a web-based registration system using PHP that stores user data in str
 ### Paper 2: (Ethics Paper)
 - Class: (CSI 419 Database Management)  
 - Grade: (80)  
-- [View Paper](pdf/paper2.pdf)
+- [View Paper](pdf/paper2.pnd)
 
 ---
 
